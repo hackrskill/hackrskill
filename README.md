@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hackrskill/hackrskill/output/snake.svg" alt="Snake animation" />
 
 ###
